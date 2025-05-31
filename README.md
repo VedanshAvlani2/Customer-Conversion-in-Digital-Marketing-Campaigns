@@ -26,6 +26,20 @@ Sourced from Kaggle, the dataset includes:
 - **Pandas, NumPy** (Data manipulation)
 - **Matplotlib, Seaborn** (Visualization)
 
+## How to Run the Project
+
+### 1. Clone the Repository
+### 2. Install Dependencies
+We recommend creating a virtual environment:
+```
+pip install pandas numpy matplotlib seaborn scikit-learn xgboost imbalanced-learn
+```
+### 3. Run the Notebook
+Open the notebook with Jupyter or VS Code:
+```
+jupyter notebook "Digital marketing.ipynb"
+```
+
 ## Workflow
 
 ### 1. Data Preprocessing
